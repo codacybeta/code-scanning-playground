@@ -21,7 +21,7 @@ This is a template repo, demonstrating GitHub's [Code Scanning capability](https
 1. Register for the code scanning beta [here](https://github.com/features/security/advanced-security/signup)
 1. [Generate a copy of this repo](https://github.com/swinton/code-scanning-playground/generate)
 1. Push a commit -- it can even be an empty commit (`git commit --allow-empty`)
-1. Observe as a new security alert is generated
+1. Observe as a new security alert is generated 
 
 ## Additional resources
 - [SARIF example output](example.sarif.json)
